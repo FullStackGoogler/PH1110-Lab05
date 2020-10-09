@@ -61,5 +61,3 @@ print("Initial Kinetic Energy of Cart 1 was:", KEi1, "J, +/-", KEi1DEV, "J.")
 print("Initial Kinetic Energy of Cart 2 was:", KEi2, "J, +/-", KEi2DEV, "J.")
 print("Final Kinetic Energy of Cart 1 was  :", KEf1, "J, +/-", KEf1DEV, "J.")
 print("Final Kinetic Energy of Cart 2 was  :", KEf2, "J, +/-", KEf2DEV, "J.")
-print()
-print("The change in Momentum was:", 
